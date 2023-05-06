@@ -1,0 +1,47 @@
+.twitter-button{
+    background-color: #00ACEE;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 6px 14px;
+}
+.header{
+    background-image: url(images/inflicted.png);
+}
+.customize-background{
+    background-color: rgba(255, 255, 255, 0.6);
+}
+.customize-bg{
+    background-image: url(images/inflicted.png);
+    padding-bottom: 40px;
+}
+.bg-tinygrid{
+    background-image: url(images/tiny_grid.png);
+}
+.second-row{
+    background-color: #5e35b1;
+    width: 1300px;
+    padding-left: 20px;
+}
+.flag-new{
+    content: "New!";
+    background-color: #087f23;
+    width: 60px;
+    position: absolute;
+    top: 44rem;
+    left: 18rem;
+    padding: 0.3rem 0.5rem;
+    display: inline-block;
+    color: #fff;
+    font-weight: both;
+    transform: rotate(-20deg);
+}
+.footer-background{
+    background-image: url(images/inflicted.png);
+}
+.footer-second-background{
+    background-color: rgba(255, 255, 255, 0.6);
+}
+.atag{
+    color: black;
+}
